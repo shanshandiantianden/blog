@@ -15,11 +15,11 @@ var (
 )
 
 func init() {
-	user := "root"
-	password := "root"
-	host := "47.115.204.104"
-	port := "3307"
-	database := "gin-bl"
+	user := "账号"
+	password := "密码"
+	host := "你的数据库地址"
+	port := "端口"
+	database := "库名"
 	charset := "utf8"
 	loc := "Asia/Shanghai"
 	args := fmt.Sprintf("%s:%s@tcp(%s:%s)/%s?charset=%s&parseTime=True&loc=%s",
