@@ -1,0 +1,14 @@
+time="2023-03-31 22:06:05.712479800" level=info clientIp="::1" dataSize=48 host=DESKTOP-G503LMJ method=GET path=/v1/catearticle/2/1/10 spendTime="115 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 22:06:13.109715000" level=info clientIp="::1" dataSize=48 host=DESKTOP-G503LMJ method=GET path=/v1/catearticle/1/1/10 spendTime="111 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 22:06:24.987414500" level=info clientIp="::1" dataSize=48 host=DESKTOP-G503LMJ method=GET path=/v1/catearticle/10/1/10 spendTime="110 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 22:07:21.631877300" level=info clientIp="::1" dataSize=199 host=DESKTOP-G503LMJ method=GET path=/v1/cate/0/10 spendTime="74 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 22:09:25.296071100" level=info clientIp="::1" dataSize=3400 host=DESKTOP-G503LMJ method=GET path=/v1/catearticle/11/1/10 spendTime="183 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 22:10:09.528735800" level=info clientIp="::1" dataSize=3400 host=DESKTOP-G503LMJ method=GET path=/v1/catearticle/11/1/10 spendTime="210 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 22:18:57.426920300" level=info clientIp="::1" dataSize=199 host=DESKTOP-G503LMJ method=GET path=/v1/cate/0/10 spendTime="70 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 22:55:26.363924700" level=info clientIp="::1" dataSize=199 host=DESKTOP-G503LMJ method=GET path=/v1/cate/0/10 spendTime="74 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 22:56:57.156903200" level=info clientIp="::1" dataSize=199 host=DESKTOP-G503LMJ method=GET path=/v1/cate/0/10 spendTime="76 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 22:59:49.986504500" level=info clientIp="::1" dataSize=199 host=DESKTOP-G503LMJ method=GET path=/v1/cate/0/10 spendTime="80 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 23:00:48.950546400" level=info clientIp="::1" dataSize=199 host=DESKTOP-G503LMJ method=GET path=/v1/cate/0/10 spendTime="527 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 23:17:10.894748700" level=info clientIp="::1" dataSize=62 host=DESKTOP-G503LMJ method=GET path=/v1/cate/0/10 spendTime="432 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 23:19:43.314738600" level=info clientIp="::1" dataSize=62 host=DESKTOP-G503LMJ method=GET path=/v1/cate/0/10 spendTime="432 ms" status=200 userAgent=PostmanRuntime/7.29.0
+time="2023-03-31 23:52:38.500944200" level=info clientIp="::1" dataSize=87 host=DESKTOP-G503LMJ method=GET path=/v1/cate/0/10 spendTime="470 ms" status=200 userAgent=PostmanRuntime/7.29.0
