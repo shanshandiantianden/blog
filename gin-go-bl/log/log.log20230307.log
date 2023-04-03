@@ -1,8 +1,0 @@
-time="2023-03-07 12:26:58.347955900" level=info clientIp="::1" dataSize=213 host=DESKTOP-G503LMJ method=POST path=/v1/login spendTime="213 ms" status=200 userAgent=PostmanRuntime/7.29.0
-time="2023-03-07 12:51:04.832980000" level=info clientIp="::1" dataSize=440 host=DESKTOP-G503LMJ method=GET path=/v1/user/0/10 spendTime="74 ms" status=200 userAgent=PostmanRuntime/7.29.0
-time="2023-03-07 16:55:31.521209700" level=info clientIp="::1" dataSize=213 host=DESKTOP-G503LMJ method=POST path=/v1/login spendTime="203 ms" status=200 userAgent=PostmanRuntime/7.29.0
-time="2023-03-07 16:56:04.260902600" level=info clientIp="::1" dataSize=128 host=DESKTOP-G503LMJ method=POST path=/v1/cate spendTime="312 ms" status=200 userAgent=PostmanRuntime/7.29.0
-time="2023-03-07 16:56:28.819736200" level=info clientIp="::1" dataSize=139 host=DESKTOP-G503LMJ method=POST path=/v1/cate spendTime="159 ms" status=200 userAgent=PostmanRuntime/7.29.0
-time="2023-03-07 16:57:16.006737000" level=info clientIp="::1" dataSize=66 host=DESKTOP-G503LMJ method=POST path=/v1/cate spendTime="73 ms" status=200 userAgent=PostmanRuntime/7.29.0
-time="2023-03-07 17:03:06.037194500" level=info clientIp="::1" dataSize=73 host=DESKTOP-G503LMJ method=GET path=/v1/cate/0/10 spendTime="73 ms" status=200 userAgent=PostmanRuntime/7.29.0
-time="2023-03-07 21:28:16.056981300" level=warning clientIp="::1" dataSize=0 host=DESKTOP-G503LMJ method=GET path=/favicon.ico spendTime="0 ms" status=404 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.63"
